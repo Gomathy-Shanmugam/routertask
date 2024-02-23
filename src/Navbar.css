@@ -1,0 +1,19 @@
+.nav-item:hover .nav-link {
+    text-decoration:underline;
+    text-decoration-color: rgb(55, 168, 55); 
+    color: green;
+     
+   }
+   .navbar-brand{
+     margin-left: 260px;
+   }
+   .nav-link:hover {
+    text-decoration-color: green; 
+  }
+  .navbar-brand:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(55, 168, 55); 
+  }
+
+
+ 

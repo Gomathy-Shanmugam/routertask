@@ -71,7 +71,7 @@ function App() {
     },
     {
       id: 8,
-      img: "https://www.guvi.in/blog/wp-content/uploads/2021/10/Colorful-Photo-Animal-Kids-Toys-Promot-Deals-Card-600x426.png",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2021/07/Blog-1-1-600x314.png",
       title: "A Complete Guide on Data Science Syllabus | 2024",
       description: "By Archana",
       date: " 14 Dec, 2023  No Comments",
@@ -79,7 +79,7 @@ function App() {
     },
     {
       id: 9,
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/02/2.-AI-vs-ML-vs-Data-Science_-1536x804.png",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/image-15.png",
       title: "AI vs ML vs Data Science: What Should You Learn In 2024?",
       description: "By Archana",
       date: "14 Dec, 2023  No Comments",
